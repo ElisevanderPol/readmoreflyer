@@ -184,3 +184,45 @@ footer {
 
 
 }
+
+td{
+    border: 1px solid #438eb9;
+    padding:5px;
+}
+
+.headCell{
+    background-color: #438eb9;
+    color: #ffffff;
+    border: 1px solid white;
+}
+
+.navbar-inverse{
+    background-color: #438eb9;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.navbar-brand{
+    color: #ffffff;
+}
+
+a{
+    color: #ffffff !important;
+    /*padding: 20px !important;*/
+}
+
+a:hover{
+    color: #438eb9 !important;
+    background-color: #ffffff !important;
+    border: 1px solid #438eb9 !important;
+    border-radius: 3px !important;
+    padding-bottom: 14px !important;
+    padding-top: 14px !important;
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+    /*padding: 2px !important;*/
+}
+
+.logo{
+    margin:10px;
+}
