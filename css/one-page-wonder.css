@@ -26,14 +26,12 @@ body {
 
 .headline h1 {
     font-size: 130px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
+    color: #ffffff;
 }
 
 .headline h2 {
     font-size: 77px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
+    color: #ffffff;
 }
 
 .text-muted{
@@ -197,24 +195,24 @@ td{
 }
 
 .navbar-inverse{
-    background-color: #438eb9;
-    color: #ffffff;
-    border-color: #ffffff;
+    background-color: #ffffff;
+    color: #438eb9;
+    border-color: #438eb9;
 }
 
 .navbar-brand{
-    color: #ffffff;
+    color: #438eb9;
 }
 
 a{
-    color: #ffffff !important;
+    color: #438eb9 !important;
     /*padding: 20px !important;*/
 }
 
 a:hover{
-    color: #438eb9 !important;
-    background-color: #ffffff !important;
-    border: 1px solid #438eb9 !important;
+    color: #ffffff !important;
+    background-color: #438eb9 !important;
+    border: 1px solid #ffffff !important;
     border-radius: 3px !important;
     padding-bottom: 14px !important;
     padding-top: 14px !important;
@@ -225,4 +223,8 @@ a:hover{
 
 .logo{
     margin:10px;
+}
+
+ul{
+    font-size: 18px;
 }
