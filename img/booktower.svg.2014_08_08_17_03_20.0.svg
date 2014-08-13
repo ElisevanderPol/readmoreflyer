@@ -1360,11 +1360,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.60625514"
-     inkscape:cx="-419.6986"
-     inkscape:cy="1480.2664"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-713.30436"
+     inkscape:cy="1796.1393"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5308"
      showgrid="false"
      inkscape:window-width="1436"
      inkscape:window-height="856"
@@ -1385,7 +1385,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1403,7 +1403,7 @@
        sodipodi:ry="464.67017"
        d="m -103.03558,-786.11548 a 534.37067,464.67017 0 1 1 -1068.74132,0 534.37067,464.67017 0 1 1 1068.74132,0 z"
        transform="matrix(0.9356801,0,0,1.0760321,-69.307651,62.825951)"
-       inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/properties.png"
+       inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/prices.png"
        inkscape:export-xdpi="45"
        inkscape:export-ydpi="45" />
     <path
@@ -2920,61 +2920,7 @@
        sodipodi:rx="13.214286"
        sodipodi:ry="55"
        d="m -387.14286,419.50504 a 13.214286,55 0 1 1 -26.42857,0 13.214286,55 0 1 1 26.42857,0 z"
-       transform="matrix(1,0,0,0.72077922,-504.43178,-1117.1926)"
-       inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
-       inkscape:export-xdpi="45.000004"
-       inkscape:export-ydpi="45.000004" />
-    <g
-       id="g6037"
-       style="fill:#ffffff;fill-opacity:1"
-       transform="translate(-642.93148,-1404.9802)"
-       inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
-       inkscape:export-xdpi="45.000004"
-       inkscape:export-ydpi="45.000004">
-      <path
-         transform="translate(-2.1428571,-28.571429)"
-         d="m -131.42858,777.7193 c 0,49.90287 -38.21569,90.35714 -85.35714,90.35714 -47.14145,0 -85.35714,-40.45427 -85.35714,-90.35714 0,-49.90287 38.21569,-90.35714 85.35714,-90.35714 47.14145,0 85.35714,40.45427 85.35714,90.35714 z"
-         sodipodi:ry="90.35714"
-         sodipodi:rx="85.35714"
-         sodipodi:cy="777.7193"
-         sodipodi:cx="-216.78572"
-         id="path6039"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
-      <path
-         d="m -237.85715,818.43359 c 0,19.9217 -11.35278,36.07143 -25.35714,36.07143 -14.00437,0 -25.35715,-16.14973 -25.35715,-36.07143 0,-19.9217 11.35278,-36.07143 25.35715,-36.07143 14.00436,0 25.35714,16.14973 25.35714,36.07143 z"
-         sodipodi:ry="36.07143"
-         sodipodi:rx="25.357143"
-         sodipodi:cy="818.43359"
-         sodipodi:cx="-263.21429"
-         id="path6041"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
-    </g>
-    <path
-       style="fill:#316887;fill-opacity:1;stroke:none"
-       d="m -1015.0926,-745.60712 c 35.95242,70.8485 71.90482,141.697 107.85722,212.5455 0,-51.3247 0,-102.6496 0,-153.9743 -35.4248,-62.8672 -70.8497,-125.7344 -106.27452,-188.6016 -0.5275,43.3435 -1.0551,86.687 -1.5827,130.0304 z"
-       id="path6043"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
-       inkscape:export-xdpi="45.000004"
-       inkscape:export-ydpi="45.000004" />
-    <path
-       style="fill:#367396;fill-opacity:1;stroke:none"
-       d="m -1022.2482,-891.43582 494.61982,0 186.0945,200 -568.0781,0 z"
-       id="path6045"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
-       inkscape:export-xdpi="45.000004"
-       inkscape:export-ydpi="45.000004" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path6047"
-       d="m -1016.052,-748.49022 c 37.61912,70.7007 75.23812,141.4015 112.85722,212.1023 0,-51.2178 0,-102.4356 0,-153.6533 -37.067,-62.7361 -74.1341,-125.4722 -111.20112,-188.2083 -0.552,43.2531 -1.104,86.5062 -1.6561,129.7593 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(1,0,0,0.72077922,406.07596,-1193.0682)"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
@@ -2987,13 +2933,13 @@
        sodipodi:rx="23.75"
        sodipodi:ry="51.25"
        d="m -279.28571,540.39789 a 23.75,51.25 0 1 1 -47.5,0 23.75,51.25 0 1 1 47.5,0 z"
-       transform="matrix(0.77443609,0,0,0.8989547,-666.00008,-1300.6154)"
+       transform="matrix(0.77443609,0,0,0.8989547,244.50766,-1376.491)"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
     <path
        style="fill:#acacac;fill-opacity:1;stroke:none"
-       d="m -908.26668,-855.13952 0,2.471 c 0.2137,-0.032 0.4395,-0.056 0.6563,-0.061 7.5921,-0.1613 14.1196,16.9528 14.5937,38.2249 0.4741,21.2721 -5.2829,38.6433 -12.875,38.8046 -0.811,0.017 -1.5941,-0.1881 -2.375,-0.5491 l 0,9.0605 400,0 0,-87.9509 -400,0 z"
+       d="m 2.2410643,-931.01517 0,2.471 c 0.2137,-0.032 0.4395,-0.056 0.6563,-0.061 7.5920997,-0.1613 14.1195997,16.9528 14.5936997,38.2249 0.4741,21.2721 -5.2829,38.6433 -12.8749997,38.8046 -0.811,0.017 -1.5941,-0.1881 -2.375,-0.5491 l 0,9.0605 399.9999957,0 0,-87.9509 -399.9999957,0 z"
        id="path6051"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
@@ -3001,7 +2947,7 @@
        inkscape:export-ydpi="45.000004" />
     <path
        style="fill:#8a8a8a;fill-opacity:1;stroke:none"
-       d="m -978.25828,-962.22712 370,0 101.0891,110 -401.0891,0 z"
+       d="m -67.750536,-1038.1028 369.999996,0 101.0891,110.00003 -401.0890957,0 z"
        id="path6053"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -3017,13 +2963,13 @@
        sodipodi:rx="17.425131"
        sodipodi:ry="31.567266"
        d="m -221.22341,476.32269 a 17.425131,31.567266 0 1 1 -34.85027,0 17.425131,31.567266 0 1 1 34.85027,0 z"
-       transform="matrix(0.68115941,0,0,0.896,-706.39538,-1357.7154)"
+       transform="matrix(0.68115941,0,0,0.896,204.11236,-1433.591)"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
     <path
        style="fill:#569bc2;fill-opacity:1;stroke:none"
-       d="m -932.77568,-1034.6804 242.5254,0.1263 77.4747,84.87388 -260.0001,0 z"
+       d="m -22.267936,-1110.556 242.525396,0.1263 77.4747,84.8738 -260.000096,0 z"
        id="path6057"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -3034,14 +2980,14 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path6059"
-       d="m -932.31388,-1029.637 58.676,80.67838 0,50.1152 -58.676,-84.90113 z"
+       d="m -21.806136,-1105.5126 58.676,80.6783 0,50.11523 -58.676,-84.90113 z"
        style="fill:#316887;fill-opacity:1;stroke:none"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m -932.77568,-1034.6804 59.6429,83.27318 0,51.727 -59.6429,-87.63163 z"
+       d="m -22.267936,-1110.556 59.6429,83.2731 0,51.72703 -59.6429,-87.63163 z"
        id="path6061"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -3050,35 +2996,14 @@
        inkscape:export-ydpi="45.000004" />
     <path
        style="fill:#438eb9;fill-opacity:1;stroke:none"
-       d="m -872.76668,-952.54582 0,1.0241 c 2.8178,4.5071 4.75,13.5057 4.75,23.8848 0,10.3792 -1.9322,19.3777 -4.75,23.8849 l 0,4.0633 260,0 0,-52.8571 -260,0 z"
+       d="m 37.741064,-1028.4215 0,1.0241 c 2.8178,4.5071 4.75,13.5057 4.75,23.8848 0,10.37923 -1.9322,19.37773 -4.75,23.88493 l 0,4.0633 259.999996,0 0,-52.85713 -259.999996,0 z"
        id="path6063"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
     <path
-       sodipodi:type="arc"
-       style="fill:#438eb9;fill-opacity:1;stroke:none"
-       id="path6065"
-       sodipodi:cx="304.05591"
-       sodipodi:cy="791.7428"
-       sodipodi:rx="36.36549"
-       sodipodi:ry="71.720833"
-       d="m 340.4214,791.7428 a 36.36549,71.720833 0 1 1 -72.73098,0 36.36549,71.720833 0 1 1 72.73098,0 z"
-       transform="matrix(1,0,0,1.1267606,-649.60518,-1504.7502)"
-       inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
-       inkscape:export-xdpi="45.000004"
-       inkscape:export-ydpi="45.000004" />
-    <path
-       style="fill:#438eb9;fill-opacity:1;stroke:none"
-       d="m -905.32948,-693.09492 c 6.644,17.4365 10.7802,42.0487 10.7802,69.3437 0,31.9067 -5.6734,60.1398 -14.3736,77.5313 l 0,13.2812 c 0,0.8321 0.6621,1.5 1.4869,1.5 l 565.6199,0 c 0.8248,0 1.4869,-0.6679 1.4869,-1.5 l 0,-158.6562 c 0,-0.832 -0.6621,-1.5 -1.4869,-1.5 l -563.5134,0 z"
-       id="path6067"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
-       inkscape:export-xdpi="45.000004"
-       inkscape:export-ydpi="45.000004" />
-    <path
-       transform="matrix(0.99976339,-0.02470604,0.02090136,1.0910751,-252.88738,-1460.1547)"
+       transform="matrix(0.99976339,-0.02470604,0.02090136,1.0910751,657.62036,-1536.0303)"
        d="m -255.35715,588.07648 a 13.75,41.07143 0 1 1 -27.5,0 13.75,41.07143 0 1 1 27.5,0 z"
        sodipodi:ry="41.07143"
        sodipodi:rx="13.75"
@@ -3094,14 +3019,14 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path6071"
-       d="m -977.75318,-956.67132 70,108.099 0,81.901 -70,-115 z"
+       d="m -67.245436,-1032.547 70.0000003,108.09903 0,81.901 -70.0000003,-115 z"
        style="fill:#8a8a8a;fill-opacity:1;stroke:none"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m -978.25828,-962.22712 70,108.099 0,81.901 -70,-115 z"
+       d="m -67.750536,-1038.1028 70.0000003,108.09903 0,81.901 -70.0000003,-115 z"
        id="path6073"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -3117,20 +3042,20 @@
        sodipodi:rx="36.785713"
        sodipodi:ry="74.285713"
        d="m -391.42858,463.79074 a 36.785713,74.285713 0 1 1 -73.57143,0 36.785713,74.285713 0 1 1 73.57143,0 z"
-       transform="matrix(0.23300969,0,0,0.3028846,-836.43948,-995.65425)"
+       transform="matrix(0.23300969,0,0,0.3028846,74.068264,-1071.5299)"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#acacac;fill-opacity:1;stroke:none"
-       d="m -903.23538,-852.65742 c -0.608,0.032 -1.2154,0.1825 -1.8125,0.4062 5.3405,1.0613 7.6613,20.4323 5.1875,43.25 -1.8119,16.7123 -5.6721,30.626 -9.7188,36.4688 1.299,1.1571 2.6626,1.8762 4.125,1.9687 8.263,0.5226 15.6244,-17.4358 16.4063,-40.0937 0.7818,-22.6579 -5.2996,-41.4461 -13.5625,-41.9688 -0.205,-0.013 -0.4224,-0.042 -0.625,-0.031 z"
+       d="m 7.2723643,-928.53307 c -0.608,0.032 -1.2154,0.1825 -1.8125,0.4062 5.3404997,1.0613 7.6612997,20.4323 5.1874997,43.25 -1.8118997,16.7123 -5.6720997,30.626 -9.71879969,36.4688 1.29899999,1.1571 2.66259999,1.8762 4.12499999,1.9687 8.2629997,0.5226 15.6243997,-17.4358 16.4062997,-40.0937 0.7818,-22.6579 -5.2996,-41.4461 -13.5624997,-41.9688 -0.205,-0.013 -0.4224,-0.042 -0.625,-0.031 z"
        id="path6077"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
     <path
-       transform="translate(-635.86038,-1403.97)"
+       transform="translate(274.64736,-1479.8456)"
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path6079"
@@ -3151,12 +3076,12 @@
        sodipodi:rx="8.0812206"
        sodipodi:ry="23.233509"
        d="m -270.21581,601.32904 a 8.0812206,23.233509 0 1 1 -16.16244,0 8.0812206,23.233509 0 1 1 16.16244,0 z"
-       transform="translate(-632.82998,-1410.0309)"
+       transform="translate(277.67776,-1485.9065)"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
     <path
-       transform="translate(-635.86038,-1403.97)"
+       transform="translate(274.64736,-1479.8456)"
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path6083"
@@ -3169,7 +3094,7 @@
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
     <path
-       transform="translate(-374.43188,-1402.5414)"
+       transform="translate(536.07586,-1478.417)"
        d="m -229.30463,477.83792 a 8.8388348,25.506351 0 1 1 -17.67767,0 8.8388348,25.506351 0 1 1 17.67767,0 z"
        sodipodi:ry="25.506351"
        sodipodi:rx="8.8388348"
@@ -3190,7 +3115,7 @@
        sodipodi:rx="8.8388348"
        sodipodi:ry="25.506351"
        d="m -229.30463,477.83792 a 8.8388348,25.506351 0 1 1 -17.67767,0 8.8388348,25.506351 0 1 1 17.67767,0 z"
-       transform="translate(-362.02708,-1396.8229)"
+       transform="translate(264.77173,-1583.2131)"
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
        inkscape:export-xdpi="45.000004"
        inkscape:export-ydpi="45.000004" />
@@ -3953,30 +3878,98 @@
        inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/properties.png"
        inkscape:export-xdpi="45"
        inkscape:export-ydpi="45" />
-    <text
-       xml:space="preserve"
-       style="font-size:144px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:roboto;-inkscape-font-specification:roboto"
-       x="-875.05573"
-       y="-567.53052"
-       id="text10589"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/properties.png"
+    <g
+       id="g5308"
+       transform="translate(-3.822046e-6,-71.622268)"
+       inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/prices.png"
        inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45"><tspan
-         sodipodi:role="line"
-         id="tspan10591"
-         x="-875.05573"
-         y="-567.53052">Gitaren</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sports World;-inkscape-font-specification:Sports World"
-       x="-852.48492"
-       y="-784.70569"
-       id="text4103"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4105"
-         x="-852.48492"
-         y="-784.70569">VOETBAL</tspan></text>
+       inkscape:export-ydpi="45">
+      <g
+         inkscape:export-ydpi="45.000004"
+         inkscape:export-xdpi="45.000004"
+         inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
+         transform="translate(-642.93148,-1404.9802)"
+         style="fill:#ffffff;fill-opacity:1"
+         id="g6037">
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path6039"
+           sodipodi:cx="-216.78572"
+           sodipodi:cy="777.7193"
+           sodipodi:rx="85.35714"
+           sodipodi:ry="90.35714"
+           d="m -131.42858,777.7193 c 0,49.90287 -38.21569,90.35714 -85.35714,90.35714 -47.14145,0 -85.35714,-40.45427 -85.35714,-90.35714 0,-49.90287 38.21569,-90.35714 85.35714,-90.35714 47.14145,0 85.35714,40.45427 85.35714,90.35714 z"
+           transform="translate(-2.1428571,-28.571429)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path6041"
+           sodipodi:cx="-263.21429"
+           sodipodi:cy="818.43359"
+           sodipodi:rx="25.357143"
+           sodipodi:ry="36.07143"
+           d="m -237.85715,818.43359 c 0,19.9217 -11.35278,36.07143 -25.35714,36.07143 -14.00437,0 -25.35715,-16.14973 -25.35715,-36.07143 0,-19.9217 11.35278,-36.07143 25.35715,-36.07143 14.00436,0 25.35714,16.14973 25.35714,36.07143 z" />
+      </g>
+      <path
+         inkscape:export-ydpi="45.000004"
+         inkscape:export-xdpi="45.000004"
+         inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6043"
+         d="m -1015.0926,-745.60712 c 35.95242,70.8485 71.90482,141.697 107.85722,212.5455 0,-51.3247 0,-102.6496 0,-153.9743 -35.4248,-62.8672 -70.8497,-125.7344 -106.27452,-188.6016 -0.5275,43.3435 -1.0551,86.687 -1.5827,130.0304 z"
+         style="fill:#316887;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="45.000004"
+         inkscape:export-xdpi="45.000004"
+         inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6045"
+         d="m -1022.2482,-891.43582 494.61982,0 186.0945,200 -568.0781,0 z"
+         style="fill:#367396;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="45.000004"
+         inkscape:export-xdpi="45.000004"
+         inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -1016.052,-748.49022 c 37.61912,70.7007 75.23812,141.4015 112.85722,212.1023 0,-51.2178 0,-102.4356 0,-153.6533 -37.067,-62.7361 -74.1341,-125.4722 -111.20112,-188.2083 -0.552,43.2531 -1.104,86.5062 -1.6561,129.7593 z"
+         id="path6047"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="45.000004"
+         inkscape:export-xdpi="45.000004"
+         inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
+         transform="matrix(1,0,0,1.1267606,-649.60518,-1504.7502)"
+         d="m 340.4214,791.7428 c 0,39.61032 -16.28139,71.72083 -36.36549,71.72083 -20.08411,0 -36.36549,-32.11051 -36.36549,-71.72083 0,-39.61032 16.28138,-71.72083 36.36549,-71.72083 20.0841,0 36.36549,32.11051 36.36549,71.72083 z"
+         sodipodi:ry="71.720833"
+         sodipodi:rx="36.36549"
+         sodipodi:cy="791.7428"
+         sodipodi:cx="304.05591"
+         id="path6065"
+         style="fill:#438eb9;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="45.000004"
+         inkscape:export-xdpi="45.000004"
+         inkscape:export-filename="/Users/elise/Documents/readmoreflyer/img/ladder.png"
+         inkscape:connector-curvature="0"
+         id="path6067"
+         d="m -905.32948,-693.09492 c 6.644,17.4365 10.7802,42.0487 10.7802,69.3437 0,31.9067 -5.6734,60.1398 -14.3736,77.5313 l 0,13.2812 c 0,0.8321 0.6621,1.5 1.4869,1.5 l 565.6199,0 c 0.8248,0 1.4869,-0.6679 1.4869,-1.5 l 0,-158.6562 c 0,-0.832 -0.6621,-1.5 -1.4869,-1.5 l -563.5134,0 z"
+         style="fill:#438eb9;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4536"
+         y="-559.50653"
+         x="-674.25549"
+         style="font-size:231.91342163px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Plantagenet Cherokee;-inkscape-font-specification:Plantagenet Cherokee"
+         xml:space="preserve"><tspan
+           y="-559.50653"
+           x="-674.25549"
+           id="tspan4538"
+           sodipodi:role="line">Toekomst</tspan></text>
+    </g>
   </g>
 </svg>
